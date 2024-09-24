@@ -1,0 +1,74 @@
+Aqui está um resumo dos temas que você precisa para a prova de Segurança da Informação:
+
+1. Códigos Maliciosos (Malware)
+
+Vírus: Programa que se replica e precisa de um hospedeiro. Pode corromper arquivos ou danificar sistemas.
+
+Worms: Autossuficientes, não precisam de arquivos hospedeiros. Podem se espalhar rapidamente pela rede, consumindo recursos.
+
+Trojan (Cavalo de Tróia): Disfarçado como um programa legítimo, abre portas para atacantes.
+
+Ransomware: Sequestra arquivos do sistema e exige resgate.
+
+Spyware: Coleta informações do usuário sem seu consentimento.
+
+Adware: Exibe anúncios, podendo rastrear atividades online.
+
+Rootkits: Ferramentas que permitem ao atacante esconder sua presença no sistema.
+
+
+2. Controle de Acesso
+
+Controle de acesso refere-se aos mecanismos que restringem a entrada de usuários e processos em sistemas:
+
+Autenticação: Verificação de identidade (senhas, tokens, biometria).
+
+Autorização: Concessão de permissões para acessar recursos.
+
+Políticas de Controle de Acesso:
+
+DAC (Discretionary Access Control): Controle discricionário, onde o dono do recurso decide quem tem acesso.
+
+MAC (Mandatory Access Control): Controle obrigatório, baseado em políticas centrais e classificações de segurança.
+
+RBAC (Role-Based Access Control): Controle baseado em papéis; os usuários têm acesso com base em suas funções​(SEG03_Controle-Acesso).
+
+
+3. Métodos de Ataque
+
+Ataques de Engenharia Social: Engana usuários para fornecer informações ou executar ações prejudiciais.
+
+Phishing: E-mails falsos para roubar dados confidenciais.
+
+Ataques de Força Bruta: Tentativas automáticas de adivinhar senhas.
+
+Ataques de Interceptação: Interceptam comunicação para acessar informações (e.g., Man-in-the-Middle).
+
+DoS/DDoS (Negação de Serviço): Sobrecarga de um sistema ou rede para torná-los indisponíveis.
+
+SQL Injection: Inserção de comandos maliciosos em consultas SQL, comprometendo bancos de dados.
+
+Cross-Site Scripting (XSS): Injeção de scripts maliciosos em sites para atingir usuários.
+
+
+4. Mecanismos de Segurança (Até Firewall)
+
+Criptografia: Protege dados, tornando-os inacessíveis sem a chave correta.
+
+Assinaturas Digitais: Garantem a autenticidade e integridade dos documentos.
+
+Certificados Digitais: Verificam a identidade de usuários e sites.
+
+Protocolos de Segurança: Protocolos como TLS/SSL garantem a comunicação segura na internet.
+
+IDS/IPS (Intrusion Detection/Prevention Systems): Detectam ou bloqueiam atividades suspeitas em redes.
+
+Firewall: Filtro de segurança que monitora e controla o tráfego de rede, bloqueando ou permitindo dados com base em regras​(SEG05_Mecanismos-Segura…)​(SEG05_Mecanismos-Segura…).
+
+Estude bem esses tópicos e qualquer dúvida, estarei por aqui!
+
+
+
+
+
+
